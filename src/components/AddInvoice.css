@@ -1,0 +1,8 @@
+.add{
+    background-color:rgba(112, 128, 144, 0.338);
+    min-height: 100vh;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
